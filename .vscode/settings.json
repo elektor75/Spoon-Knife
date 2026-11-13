@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "git.autofetch": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "workbench.editor.enablePreview": false,
+  "files.eol": "\n"
+}
